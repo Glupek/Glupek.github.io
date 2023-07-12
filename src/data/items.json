@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Luffy",
+      "price": 3000000000,
+      "imgUrl": "/imgs/luffy.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Zoro",
+      "price": 1111000000,
+      "imgUrl": "/imgs/zorro.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nami",
+      "price": 366000000,
+      "imgUrl": "/imgs/nami.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sanji",
+      "price": 1110999999,
+      "imgUrl": "/imgs/sanji.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sogeking",
+      "price":200000000,
+      "imgUrl": "/imgs/sogeking.jpg"
+    }
+  ]
